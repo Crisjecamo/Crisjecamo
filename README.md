@@ -1,5 +1,5 @@
 <!--Banner-->
-![Crisjecamo Banner Image](Crisjecamo/photo_4956468306731183471_y.jpg)
+![Crisjecamo Banner Image](banner.png)
 
 <!--Night Owl image-->
 <div>
