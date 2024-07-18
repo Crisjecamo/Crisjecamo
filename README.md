@@ -22,7 +22,7 @@
 
 * :heartbeat: I like continuous learning, I believe there is always more to discover and learn :microscope:
 
-* :mailbox: Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Cristhopher-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cristhopher-castro-739342b5/)
+* :mailbox: Do you want to contact me? [![Linkedin Badge](https://img.shields.io/badge/-Cristhopher-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cristhopher-castro-739342b5/)
 <!--End Intro-->
 
 <!--Profile Count Badge-->
