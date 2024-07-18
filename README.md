@@ -83,8 +83,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/Crisjecamo/Retail-Report.git">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Crisjecamo&repo=Retail-Report&theme=nightowl&show_owner=true" alt="Hackathon Project" />
         </a>
       </p>
     </td>
