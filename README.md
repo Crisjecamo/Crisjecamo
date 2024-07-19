@@ -36,7 +36,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,html,css,mysql,postgres,mongo,git,vscode,pycharm,powershell,ai,windows,linux&perline=10" />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,html,css,mysql,postgres,mongo,git,vscode,pycharm,powershell,windows,linux&perline=10" />
 </p>
 <div id="header" align="left">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
